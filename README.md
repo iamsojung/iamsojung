@@ -1,7 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sojung%20Github&fontSize=90)
 ### Hi, I am Sojung 🌱 👋
 <!--
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sojung%20Github&fontSize=90)
+
 **iamsojung/iamsojung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
